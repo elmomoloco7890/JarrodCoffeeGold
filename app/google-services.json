@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901472186485",
+    "firebase_url": "https://jarrodcoffeegoldfire-default-rtdb.firebaseio.com",
+    "project_id": "jarrodcoffeegoldfire",
+    "storage_bucket": "jarrodcoffeegoldfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901472186485:android:22675c660f5e23bd24083c",
+        "android_client_info": {
+          "package_name": "prime.projects.jarrodcoffeegold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901472186485-g9tctslt1t4ep1utrtbpusprqpcj1u84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prime.projects.jarrodcoffeegold",
+            "certificate_hash": "dc4932bef0003dbc4339551c89941d379e59acb0"
+          }
+        },
+        {
+          "client_id": "901472186485-doh4tt2590hd65t9mam1datq2bv6f56k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-49JbyFMndD6HkrYZsAgKD53BNMog04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901472186485-doh4tt2590hd65t9mam1datq2bv6f56k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

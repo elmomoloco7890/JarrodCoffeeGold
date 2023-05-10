@@ -2,6 +2,6 @@ package prime.projects.jarrodcoffeegold.events
 
 import prime.projects.jarrodcoffeegold.data.JarrodMenuItem
 
-interface JarrodItemClickListener {
+interface JarrodCategoryClickListener {
     fun onMenuItemClicked(jarrodMenuItem: JarrodMenuItem)
 }

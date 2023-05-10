@@ -1,5 +1,9 @@
 package prime.projects.jarrodcoffeegold.data
 
+import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
+
+@Parcelize
 data class MenuItem(
     val id: String ?= null,
     val menuItem: String ?= null,
@@ -9,4 +13,4 @@ data class MenuItem(
     val size1: String ?= null,
     val size2: String ?= null,
     val size3: String ?= null
-)
+): Parcelable

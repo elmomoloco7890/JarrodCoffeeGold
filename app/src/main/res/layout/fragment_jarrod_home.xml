@@ -35,8 +35,8 @@
 
                 <ImageView
                     android:id="@+id/imageView3"
-                    android:layout_width="@dimen/_100sdp"
-                    android:layout_height="@dimen/_100sdp"
+                    android:layout_width="@dimen/_90sdp"
+                    android:layout_height="@dimen/_90sdp"
                     android:layout_gravity="center"
                     android:contentDescription="@null"
                     android:scaleType="centerCrop"
@@ -76,21 +76,21 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                app:layout_constraintGuide_begin="165dp" />
+                app:layout_constraintGuide_begin="138dp" />
 
             <androidx.constraintlayout.widget.Guideline
                 android:id="@+id/guideline6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                app:layout_constraintGuide_begin="518dp" />
+                app:layout_constraintGuide_begin="464dp" />
 
             <androidx.constraintlayout.widget.Guideline
                 android:id="@+id/guideline"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                app:layout_constraintGuide_begin="588dp" />
+                app:layout_constraintGuide_begin="545dp" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
 
